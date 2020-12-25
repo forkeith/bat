@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-NEWPATH=/home/keith/repos/bat/target/release/
+# TODO: don't assume in bat root dir
+NEWPATH=$(pwd)/target/release/
 
 title="Select action"
 prompt="Pick an option:"
