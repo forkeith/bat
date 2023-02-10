@@ -259,6 +259,14 @@ COMMANDS
            Cycles the layout mode of the focused container through a list of
            layouts.
 
+       unbindgesture [--exact] [--input-device=<device>] <gesture>[:<fin‐
+       gers>][:directions]
+#      ^^^^ variable.parameter
+#          ^ punctuation.definition.generic.end
+#           ^ punctuation.section.brackets.end
+           Removes a binding for the specified gesture, fingers and directions
+           combination.
+
 SEE ALSO
        The systemd Homepage[11], systemd-system.conf(5), locale.conf(5)
 #                                ^^^^^^^^^^^^^^^^^^^ entity.name.function
