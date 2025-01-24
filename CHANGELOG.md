@@ -11,6 +11,8 @@
 
 ## Syntaxes
 
+- improvements to CSV/TSV highlighting, with autodetection of delimiter and support for TSV files, see #3186 (@keith-hall)
+
 ## Themes
 
 ## `bat` as a library
