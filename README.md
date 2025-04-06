@@ -31,7 +31,7 @@ A special *thank you* goes to our biggest <a href="doc/sponsors.md">sponsors</a>
   <sub>Available on MacOS, Linux, Windows</sub>
 </a>
 <a href="https://graphite.dev/?utm_source=github&utm_medium=repo&utm_campaign=bat">
-  <img src="doc/sponsors/graphite-logo.png" width="200" alt="Graphite">
+  <img src="doc/sponsors/graphite-logo.gif" width="200" alt="Graphite">
   <br>
   <strong>Graphite is the AI developer productivity platform helping teams on GitHub ship higher quality software, faster</strong>
 </a>
